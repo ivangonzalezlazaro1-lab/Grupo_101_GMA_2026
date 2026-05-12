@@ -999,3 +999,4 @@ ID_Venta,Fecha,Producto,Categoria,Precio,Cantidad,ID_Cliente,Region
 998,2024-05-17,Botas de Senderismo,Ropa,120.0,1.0,597,Centro
 999,2024-05-26,Mesa de Centro,muebles,80.0,1.0,607,Centro
 1000,2024-06-05,Divisor de Audifonos,audio,8.0,1.0,618,Oeste
+No elimines la linea de trabajo
