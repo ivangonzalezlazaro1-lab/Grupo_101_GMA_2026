@@ -1,0 +1,1001 @@
+ID_Venta,Fecha,Producto,Categoria,Precio,Cantidad,ID_Cliente,Region
+1,2023-01-15,Laptop Gamer,Electronica,1500.5,1.0,101,Norte
+2,2023-01-16,Mouse Inalambrico,Accesorios,25.0,2.0,102,
+3,2023-01-17,Teclado Mecanico,Accesorios,75.99,1.0,101,Norte
+4,18/01/2023,Monitor 24",Monitores,250.0,1.0,103,Sur
+5,2023-01-19,,Monitores,300.0,1.0,104,Centro
+6,2023-01-20,Laptop Gamer,Electronica,1500.5,1.0,101,Norte
+7,2023-01-21,Silla Gamer,Muebles,200.0,N/A,105,Oeste
+8,2023-01-22,Webcam HD,Accesorios,-50.0,1.0,106,Norte
+9,2023-01-23,Microfono,accesorios,60.0,1.0,107,Sur
+10,2023-01-24,Tarjeta Grafica RTX 4090,Componentes,1799.99,1.0,108,Este
+11,25/01/2023,SSD 1TB,Componentes,99.5,2.0,109,Norte
+12,2023-01-26,Memoria RAM 16GB,componentes,55.0,2.0,110,Sur
+13,2023-01-27,Fuente de Poder 750W,Componentes,120.0,1.0,111,Centro
+14,2023-01-28,Gabinete ATX,Componentes,85.0,1.0,102,Oeste
+15,2023-01-29,Procesador Ryzen 9,Componentes,550.0,1.0,112,Este
+16,2023-01-30,Monitor Curvo 32",Monitores,450.0,1.0,113,Norte
+17,2023-01-31,Auriculares Bluetooth,Accesorios,65.0,1.0,114,Sur
+18,2023-02-01,Disco Duro Externo 2TB,Almacenamiento,70.0,1.0,115,Centro
+19,02/02/2023,Alfombrilla XL,Accesorios,20.0,3.0,101,Oeste
+20,2023-02-03,Router WiFi 6,Redes,110.0,1.0,116,
+21,2023-02-04,Impresora Multifuncional,perifericos,180.0,1.0,117,Norte
+22,2023-02-05,Hub USB-C,Accesorios,35.0,1.0,118,Sur
+23,2023-02-06,Filtro de Red,Accesorios,15.0,N/A,119,Centro
+24,2023-02-07,Bocinas 2.1,Audio,90.0,1.0,120,Oeste
+25,08/02/2023,Tarjeta Madre B550,Componentes,150.0,1.0,121,Este
+26,2023-02-09,Ventiladores RGB,Componentes,40.0,4.0,122,Norte
+27,2023-02-10,Pasta Termica,Componentes,10.0,1.0,123,Sur
+28,2023-02-11,,Perifericos,22.0,2.0,124,Centro
+29,2023-02-12,Monitor 27" 4K,monitores,-400.0,1.0,125,Oeste
+30,2023-02-13,Teclado Inalambrico,Accesorios,45.0,1.0,103,Este
+31,2023-01-15,Laptop Gamer,Electronica,1500.5,1.0,101,Norte
+32,14/02/2023,Soporte para Monitor,Accesorios,30.0,1.0,126,Norte
+33,2023-02-15,Camara de Seguridad,Seguridad,80.0,2.0,127,Sur
+34,2023-02-16,Adaptador HDMI,accesorios,12.0,1.0,128,Centro
+35,2023-02-17,Mesa de Escritorio,Muebles,150.0,1.0,105,Oeste
+36,2023-02-18,Cable Ethernet 10m,Redes,18.0,1.0,129,Este
+37,2023-02-19,Bateria Externa,Accesorios,40.0,1.0,130,Norte
+38,2023-02-20,SSD 512GB,almacenamiento,50.0,1.0,131,Sur
+39,21/02/2023,Microfono de Solapa,Audio,25.0,1.0,132,Centro
+40,2023-02-22,Audifonos con Microfono,Audio,55.0,N/A,133,
+41,2023-02-23,Smartwatch,vestibles,-120.0,1.0,134,Este
+42,2023-02-24,Tablet 10",Electronica,250.0,1.0,135,Norte
+43,2023-02-25,Lector de Tarjetas,Accesorios,15.0,1.0,136,Sur
+44,2023-02-26,,Electronica,5.0,3.0,137,Centro
+45,2023-02-27,Cargador Inalambrico,Accesorios,30.0,1.0,138,Oeste
+46,28/02/2023,Proyector HD,Video,280.0,1.0,139,Este
+47,2023-03-01,Laptop de Oficina,Electronica,899.99,1.0,140,Norte
+48,2023-03-02,Mousepad,Accesorios,10.0,1.0,141,Sur
+49,2023-03-03,Teclado Numerico,perifericos,18.0,1.0,142,Centro
+50,2023-03-04,Monitor Portatil,Monitores,210.0,1.0,143,Oeste
+51,05/03/2023,Webcam Full HD,Video,75.0,1.0,144,Este
+52,2023-03-06,Repetidor WiFi,Redes,45.0,1.0,145,Norte
+53,2023-03-07,Base para Laptop,Accesorios,28.0,1.0,146,Sur
+54,2023-03-08,Disco Duro Interno 4TB,Almacenamiento,110.0,1.0,147,
+55,2023-03-09,Kit de Limpieza,Accesorios,12.0,2.0,148,Oeste
+56,2023-03-10,Gafas de Realidad Virtual,Videojuegos,399.0,1.0,149,Este
+57,2023-03-11,Volante para Carreras,Videojuegos,250.0,1.0,150,Norte
+58,12/03/2023,Control para PC,videojuegos,50.0,2.0,151,Sur
+59,2023-03-13,Capturadora de Video,Video,130.0,1.0,152,Centro
+60,2023-03-14,Aro de Luz LED,Video,35.0,1.0,153,Oeste
+61,2023-03-15,Chromecast,Video,40.0,1.0,154,Este
+62,2023-03-16,,Electronica,12.0,1.0,155,Norte
+63,2023-03-17,Kindle,Electronica,90.0,1.0,156,Sur
+64,2023-03-18,Drone,Juguetes,-150.0,1.0,157,Centro
+65,19/03/2023,Cargador de Pared USB,Accesorios,15.0,3.0,158,Oeste
+66,2023-03-20,Bocina Inteligente,Audio,60.0,1.0,159,Este
+67,2023-03-21,Mouse Ergonómico,Accesorios,45.0,1.0,160,Norte
+68,2023-03-22,Teclado para Tablet,Accesorios,55.0,N/A,161,Sur
+69,2023-03-23,Pantalla Inteligente,Hogar,120.0,1.0,162,Centro
+70,2023-03-24,Foco Inteligente,hogar,18.0,4.0,163,Oeste
+71,2023-03-25,Enchufe Inteligente,Hogar,15.0,2.0,164,Este
+72,26/03/2023,Termostato Inteligente,Hogar,80.0,1.0,165,Norte
+73,2023-03-27,Bascula Inteligente,Hogar,35.0,1.0,166,Sur
+74,2023-03-28,Purificador de Aire,Hogar,110.0,1.0,167,Centro
+75,2023-03-29,Aspiradora Robot,Hogar,300.0,1.0,168,Oeste
+76,2023-03-30,Licuadora,hogar,50.0,1.0,169,
+77,2023-03-31,Cafetera,Hogar,60.0,1.0,170,Norte
+78,2023-04-01,Horno de Microondas,Hogar,100.0,1.0,171,Sur
+79,02/04/2023,Refrigerador,Hogar,-800.0,1.0,172,Centro
+80,2023-04-03,Lavadora,Hogar,500.0,1.0,173,Oeste
+81,2023-04-04,,Hogar,25.0,1.0,174,Este
+82,2023-04-05,Ventilador,Hogar,40.0,1.0,175,Norte
+83,2023-04-06,Calefactor,Hogar,45.0,1.0,176,Sur
+84,2023-04-07,Plancha de Ropa,Hogar,30.0,1.0,177,Centro
+85,08/04/2023,Secadora de Cabello,Cuidado Personal,25.0,1.0,178,Oeste
+86,2023-04-09,Maquina de Afeitar,cuidado personal,40.0,1.0,179,Este
+87,2023-04-10,Cepillo Dental Electrico,Cuidado Personal,35.0,1.0,180,Norte
+88,2023-04-11,Bascula de Bano,Cuidado Personal,20.0,1.0,181,Sur
+89,2023-04-12,Mochila para Laptop,Accesorios,50.0,1.0,182,Centro
+90,2023-04-13,Funda para Tablet,Accesorios,20.0,N/A,183,Oeste
+91,2023-04-14,Candado para Laptop,Seguridad,15.0,1.0,184,Este
+92,2023-04-15,UPS (No-Break),Energia,90.0,1.0,185,Norte
+93,16/04/2023,Bateria para Laptop,Componentes,60.0,1.0,186,Sur
+94,2023-04-17,Cargador para Laptop,Accesorios,35.0,1.0,187,Centro
+95,2023-04-18,Docking Station,Accesorios,120.0,1.0,188,Oeste
+96,2023-04-19,Stylus Pen,Accesorios,25.0,1.0,189,Este
+97,2023-04-20,Tarjeta de Sonido Externa,Audio,40.0,1.0,190,
+98,2023-04-21,Lector de Blu-Ray Externo,Video,80.0,1.0,191,Sur
+99,2023-04-22,Sintonizador de TV USB,Video,30.0,1.0,192,Centro
+100,2023-04-23,Panel Solar Portatil,Energia,150.0,1.0,193,Oeste
+101,24/04/2023,,Electronica,0.0,1.0,194,Este
+102,2023-02-09,Ventiladores RGB,Componentes,40.0,4.0,122,Norte
+103,2023-04-25,Lampara de Escritorio LED,Hogar,28.0,1.0,195,Norte
+104,2023-04-26,Organizador de Cables,Accesorios,10.0,2.0,196,Sur
+105,2023-04-27,Pizarron Blanco,Oficina,40.0,1.0,197,Centro
+106,2023-04-28,Destructor de Papel,oficina,60.0,1.0,198,Oeste
+107,2023-04-29,Silla de Oficina,Muebles,180.0,1.0,199,Este
+108,2023-04-30,Archivero,Muebles,120.0,1.0,200,Norte
+109,2023-05-01,Monitor Ultrawide,Monitores,600.0,1.0,201,Sur
+110,2023-05-02,Teclado Ergonomico,Perifericos,80.0,1.0,202,Centro
+111,03/05/2023,Mouse Vertical,Perifericos,35.0,1.0,203,Oeste
+112,2023-05-04,Trackball,Perifericos,50.0,1.0,204,Este
+113,2023-05-05,Tableta Grafica,Diseno,-100.0,1.0,205,Norte
+114,2023-05-06,Impresora 3D,Diseno,350.0,1.0,206,Sur
+115,2023-05-07,Escaner de Documentos,Oficina,150.0,1.0,207,
+116,2023-05-08,Pluma 3D,Diseno,40.0,1.0,208,Oeste
+117,2023-05-09,Microscopio USB,Ciencia,60.0,1.0,209,Este
+118,2023-05-10,Telescopio,Ciencia,200.0,1.0,210,Norte
+119,11/05/2023,Kit de Robotica,Juguetes,120.0,1.0,211,Sur
+120,2023-05-12,Coche a Control Remoto,juguetes,50.0,N/A,212,Centro
+121,2023-05-13,Legos,Juguetes,80.0,1.0,213,Oeste
+122,2023-05-14,Rompecabezas,Juguetes,20.0,1.0,214,Este
+123,2023-05-15,Juego de Mesa,Juguetes,40.0,1.0,215,Norte
+124,2023-05-16,,Juguetes,15.0,3.0,216,Sur
+125,2023-05-17,Baraja de Cartas,Juguetes,5.0,1.0,217,Centro
+126,2023-05-18,Libro de Programacion,Libros,35.0,1.0,218,Oeste
+127,19/05/2023,Novela de Ciencia Ficcion,libros,20.0,1.0,219,Este
+128,2023-05-20,Libro de Cocina,Libros,25.0,1.0,220,Norte
+129,2023-05-21,Suscripcion a Revista,Suscripciones,50.0,1.0,221,Sur
+130,2023-05-22,Licencia de Software,Software,100.0,1.0,222,Centro
+131,2023-05-23,Antivirus,software,40.0,1.0,223,Oeste
+132,2023-05-24,VPN,Software,60.0,1.0,224,Este
+133,25/05/2023,Curso en Linea,Educacion,-50.0,1.0,225,Norte
+134,2023-05-26,Webinar,Educacion,20.0,1.0,226,Sur
+135,2023-05-27,Certificacion,Educacion,200.0,1.0,227,Centro
+136,2023-05-28,Consulta Tecnica,Servicios,80.0,1.0,228,Oeste
+137,2023-05-29,Reparacion de PC,servicios,120.0,1.0,229,Este
+138,2023-05-30,Instalacion de Software,Servicios,50.0,1.0,230,Norte
+139,2023-05-31,Garantia Extendida,Servicios,70.0,1.0,231,Sur
+140,2023-06-01,Tarjeta de Regalo,Regalos,50.0,1.0,232,
+141,02/06/2023,Taza Personalizada,Regalos,15.0,N/A,233,Oeste
+142,2023-06-03,Playera con Logo,Ropa,25.0,2.0,234,Este
+143,2023-06-04,Sudadera,Ropa,45.0,1.0,235,Norte
+144,2023-06-05,Gorra,ropa,20.0,1.0,236,Sur
+145,2023-06-06,Llavero,Accesorios,8.0,3.0,237,Centro
+146,2023-06-07,,Ropa,12.0,1.0,238,Oeste
+147,2023-06-08,Cinturon,Ropa,30.0,1.0,239,Este
+148,09/06/2023,Calcetines,Ropa,10.0,5.0,240,Norte
+149,2023-06-10,Smartband,Vestibles,40.0,1.0,241,Sur
+150,2023-06-11,Anillo Inteligente,vestibles,150.0,1.0,242,Centro
+151,2023-06-12,Auriculares Deportivos,Audio,70.0,1.0,243,Oeste
+152,2023-06-13,Reproductores MP3,Audio,30.0,1.0,244,Este
+153,2023-06-14,Radio Portatil,Audio,25.0,1.0,245,Norte
+154,2023-06-15,Procesador Intel i9,Componentes,600.0,1.0,246,Sur
+155,16/06/2023,Memoria RAM 32GB,Componentes,100.0,2.0,247,Centro
+156,2023-03-21,Mouse Ergonómico,Accesorios,45.0,1.0,160,Norte
+157,2023-06-17,SSD 2TB,Componentes,180.0,1.0,248,Oeste
+158,2023-06-18,Tarjeta Grafica RTX 4080,componentes,1200.0,1.0,249,Este
+159,2023-06-19,Fuente de Poder 1000W,Componentes,180.0,1.0,250,Norte
+160,2023-06-20,Gabinete Full Tower,Componentes,150.0,1.0,251,Sur
+161,2023-06-21,Tarjeta Madre Z690,Componentes,250.0,1.0,252,
+162,2023-06-22,Sistema de Enfriamiento Liquido,Componentes,130.0,1.0,253,Oeste
+163,23/06/2023,Monitor 34" Ultrawide,Monitores,-700.0,1.0,254,Este
+164,2023-06-24,Silla Ergonomica,Muebles,250.0,1.0,255,Norte
+165,2023-06-25,Escritorio Ajustable,muebles,400.0,1.0,256,Sur
+166,2023-06-26,Lampara de Pie,Hogar,50.0,1.0,257,Centro
+167,2023-06-27,Cesto de Basura,Oficina,15.0,N/A,258,Oeste
+168,2023-06-28,,Muebles,22.0,1.0,259,Este
+169,2023-06-29,Cable HDMI 8K,Video,25.0,2.0,260,Norte
+170,2023-06-30,Switch de Red,Redes,30.0,1.0,261,Sur
+171,2023-07-01,NAS (Servidor de Almacenamiento),Almacenamiento,300.0,1.0,262,Centro
+172,02/07/2023,Pendrive 128GB,Almacenamiento,20.0,1.0,263,Oeste
+173,2023-07-03,Tarjeta MicroSD 256GB,Almacenamiento,30.0,1.0,264,Este
+174,2023-07-04,Cargador para Auto,Accesorios,18.0,1.0,265,Norte
+175,2023-07-05,Soporte para Celular,accesorios,12.0,1.0,266,Sur
+176,2023-07-06,Lentes para Luz Azul,Cuidado Personal,25.0,1.0,267,Centro
+177,2023-07-07,Banda de Ejercicio,Deportes,15.0,1.0,268,Oeste
+178,08/07/2023,Tapete de Yoga,Deportes,30.0,1.0,269,Este
+179,2023-07-09,Mancuernas,deportes,50.0,2.0,270,Norte
+180,2023-07-10,Cuerda para Saltar,Deportes,10.0,1.0,271,Sur
+181,2023-07-11,Guantes de Gimnasio,Deportes,20.0,1.0,272,
+182,2023-07-12,Reloj Deportivo,Vestibles,180.0,1.0,273,Oeste
+183,2023-07-13,Oximetro,Salud,-30.0,1.0,274,Este
+184,14/07/2023,Termometro Digital,Salud,15.0,1.0,275,Norte
+185,2023-07-15,Tensiometro,Salud,40.0,1.0,276,Sur
+186,2023-07-16,,Salud,10.0,1.0,277,Centro
+187,2023-07-17,Kit de Primeros Auxilios,Salud,25.0,1.0,278,Oeste
+188,2023-07-18,Botella de Agua Inteligente,Hogar,35.0,N/A,279,Este
+189,2023-07-19,Lonchera Termica,Hogar,20.0,1.0,280,Norte
+190,2023-07-20,Juego de Cuchillos,Cocina,60.0,1.0,281,Sur
+191,2023-07-21,Sarten Antiadherente,cocina,25.0,1.0,282,Centro
+192,22/07/2023,Tabla para Picar,Cocina,15.0,1.0,283,Oeste
+193,2023-07-23,Bateria de Cocina,Cocina,150.0,1.0,284,Este
+194,2023-07-24,Tostadora,Cocina,30.0,1.0,285,Norte
+195,2023-07-25,Batidora,Cocina,70.0,1.0,286,Sur
+196,2023-07-26,Extractor de Jugos,cocina,90.0,1.0,287,Centro
+197,2023-07-27,Freidora de Aire,Cocina,100.0,1.0,288,Oeste
+198,2023-07-28,Arrocera,Cocina,40.0,1.0,289,
+199,2023-07-29,Vajilla,Cocina,80.0,1.0,290,Norte
+200,30/07/2023,Cuberteria,Cocina,50.0,1.0,291,Sur
+201,2023-07-31,Herramientas para Jardin,Jardineria,60.0,1.0,292,Centro
+202,2023-08-01,Manguera,jardineria,30.0,1.0,293,Oeste
+203,2023-08-02,Podadora,Jardineria,-180.0,1.0,294,Este
+204,2023-08-03,Guantes de Jardineria,Jardineria,15.0,1.0,295,Norte
+205,2023-08-04,Maceta,Jardineria,10.0,5.0,296,Sur
+206,2023-08-05,,Jardineria,5.0,1.0,297,Centro
+207,06/08/2023,Tierra para Plantas,Jardineria,8.0,2.0,298,Oeste
+208,2023-08-07,Fertilizante,Jardineria,12.0,1.0,299,Este
+209,2023-08-08,Taladro Inalambrico,Herramientas,90.0,1.0,300,Norte
+210,2023-08-09,Caja de Herramientas,Herramientas,50.0,1.0,301,Sur
+211,2023-08-10,Juego de Desarmadores,herramientas,25.0,1.0,302,Centro
+212,2023-08-11,Flexometro,Herramientas,10.0,N/A,303,Oeste
+213,2023-08-12,Multimetro Digital,Herramientas,20.0,1.0,304,Este
+214,2023-08-13,Pistola de Silicon,Herramientas,15.0,1.0,305,Norte
+215,14/08/2023,Gafas de Seguridad,Seguridad,8.0,1.0,306,Sur
+216,2023-08-15,Chaleco de Seguridad,Seguridad,12.0,1.0,307,Centro
+217,2023-08-16,Casco de Seguridad,seguridad,20.0,1.0,308,Oeste
+218,2023-08-17,Extintor,Seguridad,40.0,1.0,309,Este
+219,2023-08-18,Botas de Seguridad,Seguridad,70.0,1.0,310,
+220,2023-08-19,Alarma de Humo,Seguridad,18.0,2.0,311,Sur
+221,2023-08-20,Bicicleta de Montana,Deportes,350.0,1.0,312,Centro
+222,2023-08-21,Casco de Ciclismo,deportes,40.0,1.0,313,Oeste
+223,22/08/2023,Luces para Bicicleta,Deportes,15.0,1.0,314,Este
+224,2023-08-23,Bomba de Aire,Deportes,12.0,1.0,315,Norte
+225,2023-08-24,,Deportes,5.0,1.0,316,Sur
+226,2023-08-25,Camara de Accion,Video,200.0,1.0,317,Centro
+227,2023-08-26,Estabilizador para Celular,Video,90.0,1.0,318,Oeste
+228,2023-08-27,Tripie para Camara,Video,30.0,1.0,319,Este
+229,2023-08-28,Kit de Iluminacion,video,-120.0,1.0,320,Norte
+230,29/08/2023,Maleta de Viaje,Viajes,80.0,1.0,321,Sur
+231,2023-08-30,Adaptador de Corriente Universal,Viajes,20.0,1.0,322,Centro
+232,2023-08-31,Almohada de Viaje,Viajes,15.0,1.0,323,Oeste
+233,2023-09-01,Bolsa de Dormir,Campismo,60.0,1.0,324,Este
+234,2023-09-02,Casa de Campana,campismo,120.0,1.0,325,Norte
+235,2023-09-03,Lampara de Campismo,Campismo,25.0,1.0,326,Sur
+236,2023-09-04,Navaja Multiusos,Campismo,30.0,N/A,327,Centro
+237,05/09/2023,Asador Portatil,Campismo,70.0,1.0,328,Oeste
+238,2023-09-06,Hielera,Campismo,40.0,1.0,329,Este
+239,2023-09-07,Cana de Pescar,Pesca,50.0,1.0,330,
+240,2023-09-08,Carrete de Pesca,pesca,40.0,1.0,331,Sur
+241,2023-09-09,Caja para Aparejos,Pesca,20.0,1.0,332,Centro
+242,2023-09-10,,Pesca,5.0,1.0,333,Oeste
+243,2023-09-11,Balon de Futbol,Deportes,20.0,1.0,334,Este
+244,2023-09-12,Balon de Baloncesto,Deportes,25.0,1.0,335,Norte
+245,2023-09-13,Guitarra Acustica,Musica,150.0,1.0,336,Sur
+246,14/09/2023,Teclado Musical,Musica,200.0,1.0,337,Centro
+247,2023-09-15,Ukelele,musica,50.0,1.0,338,Oeste
+248,2023-09-16,Microfono USB,Musica,70.0,1.0,339,Este
+249,2023-09-17,Interfaz de Audio,Musica,100.0,1.0,340,Norte
+250,2023-09-18,Controlador MIDI,Musica,120.0,1.0,341,Sur
+251,2023-09-19,Software de Produccion Musical,Software,300.0,1.0,342,Centro
+252,2023-09-20,Audifonos de Estudio,audio,-150.0,1.0,343,Oeste
+253,2023-09-21,Monitores de Estudio,Audio,250.0,2.0,344,Este
+254,22/09/2023,Cable para Instrumento,Musica,15.0,1.0,345,Norte
+255,2023-09-23,Afinador de Guitarra,Musica,10.0,1.0,346,Sur
+256,2023-09-24,Plumillas para Guitarra,Musica,5.0,10.0,347,Centro
+257,2023-09-25,,Musica,2.0,1.0,348,Oeste
+258,2023-09-26,Correa para Guitarra,Musica,20.0,1.0,349,Este
+259,2023-09-27,Pedal de Efectos,musica,80.0,1.0,350,Norte
+260,2023-09-28,Bateria Electronica,Musica,400.0,1.0,351,Sur
+261,2023-09-29,Libro de Partituras,Libros,15.0,1.0,352,Centro
+262,30/09/2023,Atril para Partituras,Musica,25.0,N/A,353,Oeste
+263,2023-10-01,Funda para Guitarra,Musica,30.0,1.0,354,Este
+264,2023-10-02,Kit de Pintura,Arte,40.0,1.0,355,
+265,2023-10-03,Set de Pinceles,arte,20.0,1.0,356,Sur
+266,2023-10-04,Lienzo,Arte,15.0,3.0,357,Centro
+267,2023-10-05,Cuaderno de Dibujo,Arte,10.0,1.0,358,Oeste
+268,2023-10-06,Lapices de Colores,Arte,25.0,1.0,359,Este
+269,07/10/2023,Acuarelas,Arte,30.0,1.0,360,Norte
+270,2023-10-08,Caballete,Arte,50.0,1.0,361,Sur
+271,2023-10-09,,Arte,5.0,1.0,362,Centro
+272,2023-10-10,Plastilina,Arte,8.0,1.0,363,Oeste
+273,2023-10-11,Maquina de Coser,Hogar,150.0,1.0,364,Este
+274,2023-10-12,Kit de Costura,hogar,15.0,1.0,365,Norte
+275,13/10/2023,Kit de Bordado,Hogar,20.0,1.0,366,Sur
+276,2023-06-18,Tarjeta Grafica RTX 4080,componentes,1200.0,1.0,249,Este
+277,2023-10-14,Binoculares,Exterior,70.0,1.0,367,Centro
+278,2023-10-15,GPS Portatil,Exterior,120.0,1.0,368,Oeste
+279,2023-10-16,Walkie Talkies,exterior,50.0,2.0,369,Este
+280,2023-10-17,Panel Solar para Mochila,Energia,-40.0,1.0,370,Norte
+281,2023-10-18,Filtro de Agua Portatil,Campismo,25.0,1.0,371,Sur
+282,2023-10-19,Pelota de Tenis,Deportes,5.0,12.0,372,Centro
+283,20/10/2023,Raqueta de Tenis,Deportes,80.0,1.0,373,Oeste
+284,2023-10-21,Patines en Linea,Deportes,90.0,1.0,374,Este
+285,2023-10-22,Patineta,deportes,60.0,1.0,375,Norte
+286,2023-10-23,Balon de Voleibol,Deportes,20.0,1.0,376,Sur
+287,2023-10-24,Red de Voleibol,Deportes,30.0,1.0,377,Centro
+288,2023-10-25,Canasta de Baloncesto,Deportes,150.0,1.0,378,Oeste
+289,26/10/2023,Porteria de Futbol,Deportes,80.0,1.0,379,
+290,2023-10-26,Guantes de Portero,Deportes,25.0,N/A,380,Norte
+291,2023-10-27,,Deportes,10.0,1.0,381,Sur
+292,2023-10-28,Gafas de Natacion,Natacion,15.0,1.0,382,Centro
+293,2023-10-29,Gorro de Natacion,natacion,8.0,1.0,383,Oeste
+294,2023-10-30,Traje de Bano,Natacion,40.0,1.0,384,Este
+295,2023-10-31,Toalla de Microfibra,Natacion,20.0,1.0,385,Norte
+296,2023-11-01,Sandalias,Ropa,25.0,1.0,386,Sur
+297,02/11/2023,Cangurera,Accesorios,18.0,1.0,387,Centro
+298,2023-11-03,Sombrero,Ropa,20.0,1.0,388,Oeste
+299,2023-11-04,Lentes de Sol,accesorios,30.0,1.0,389,Este
+300,2023-11-05,Crema Solar,Cuidado Personal,15.0,1.0,390,Norte
+301,2023-11-06,Repelente de Insectos,Cuidado Personal,10.0,1.0,391,Sur
+302,2023-11-07,Gel Antibacterial,Cuidado Personal,5.0,3.0,392,Centro
+303,2023-11-08,Paraguas,Accesorios,20.0,1.0,393,Oeste
+304,09/11/2023,Impermeable,Ropa,40.0,1.0,394,Este
+305,2023-11-10,Bufanda,ropa,15.0,1.0,395,Norte
+306,2023-11-11,Guantes Termicos,Ropa,20.0,1.0,396,Sur
+307,2023-11-12,Gorro de Lana,Ropa,12.0,1.0,397,Centro
+308,2023-11-13,Termo para Cafe,Hogar,25.0,1.0,398,Oeste
+309,2023-11-14,Taza de Viaje,Hogar,18.0,1.0,399,Este
+310,15/11/2023,Contenedor de Alimentos,Hogar,15.0,N/A,400,
+311,2023-11-16,Hervidor Electrico,Cocina,30.0,1.0,401,Sur
+312,2023-11-17,,Cocina,10.0,1.0,402,Centro
+313,2023-11-18,Olla de Presion,Cocina,-80.0,1.0,403,Oeste
+314,2023-11-19,Olla de Lento Cocimiento,Cocina,50.0,1.0,404,Este
+315,2023-11-20,Vaporera,Cocina,40.0,1.0,405,Norte
+316,2023-11-21,Sandwichera,Cocina,25.0,1.0,406,Sur
+317,2023-11-22,Waflera,cocina,30.0,1.0,407,Centro
+318,23/11/2023,Balanza de Cocina,Cocina,20.0,1.0,408,Oeste
+319,2023-11-24,Agenda 2024,Oficina,15.0,1.0,409,Este
+320,2023-11-25,Plumas de Colores,Oficina,10.0,1.0,410,Norte
+321,2023-11-26,Marcatextos,oficina,8.0,1.0,411,Sur
+322,2023-11-27,Clips,Oficina,3.0,1.0,412,Centro
+323,2023-11-28,Grapadora,Oficina,12.0,1.0,413,Oeste
+324,2023-11-29,Post-its,Oficina,5.0,1.0,414,Este
+325,30/11/2023,Cinta Adhesiva,Oficina,4.0,1.0,415,Norte
+326,2023-12-01,Calculadora Cientifica,Oficina,25.0,1.0,416,Sur
+327,2023-12-02,,Oficina,2.0,1.0,417,Centro
+328,2023-12-03,Lampara de Lava,Decoracion,30.0,1.0,418,Oeste
+329,2023-12-04,Poster Decorativo,decoracion,15.0,1.0,419,Este
+330,2023-12-05,Vela Aromatica,Decoracion,12.0,2.0,420,Norte
+331,2023-12-06,Marco de Fotos Digital,Decoracion,70.0,1.0,421,
+332,07/12/2023,Planta Artificial,Decoracion,20.0,1.0,422,Centro
+333,2023-12-08,Cojin Decorativo,Decoracion,18.0,2.0,423,Oeste
+334,2023-12-09,Espejo de Pared,Decoracion,40.0,1.0,424,Este
+335,2023-12-10,Reloj de Pared,decoracion,25.0,1.0,425,Norte
+336,2023-12-11,Alfombra,Decoracion,-90.0,1.0,426,Sur
+337,2023-12-12,Cortinas,Decoracion,50.0,1.0,427,Centro
+338,2023-12-13,Candelabro,Decoracion,30.0,1.0,428,Oeste
+339,2023-12-14,Florero,Decoracion,15.0,N/A,429,Este
+340,15/12/2023,Figura de Coleccion,Juguetes,25.0,1.0,430,Norte
+341,2023-12-16,Peluche,Juguetes,20.0,1.0,431,Sur
+342,2023-12-17,,Juguetes,10.0,1.0,432,Centro
+343,2023-12-18,Disfraz,Ropa,40.0,1.0,433,Oeste
+344,2023-12-19,Masajeador,Cuidado Personal,60.0,1.0,434,Este
+345,2023-12-20,Humidificador,Cuidado Personal,35.0,1.0,435,Norte
+346,2023-12-21,Almohadilla Termica,cuidado personal,25.0,1.0,436,Sur
+347,2023-12-22,Sales de Bano,Cuidado Personal,15.0,1.0,437,Centro
+348,2023-12-23,Aceites Esenciales,Cuidado Personal,12.0,1.0,438,Oeste
+349,24/12/2023,Difusor de Aromas,Cuidado Personal,30.0,1.0,439,Este
+350,2023-12-25,Juego de Te,Cocina,40.0,1.0,440,Norte
+351,2023-12-26,Molinillo de Cafe,Cocina,25.0,1.0,441,Sur
+352,2023-12-27,Prensa Francesa,cocina,30.0,1.0,442,Centro
+353,2023-12-28,Juego de Copas,Cocina,50.0,1.0,443,Oeste
+354,2023-12-29,Decantador de Vino,Cocina,35.0,1.0,444,
+355,2023-12-30,Sacacorchos Electrico,Cocina,20.0,1.0,445,Norte
+356,2023-12-31,Kit para Cocteles,Cocina,45.0,1.0,446,Sur
+357,2024-01-01,Mapa del Mundo para Rascar,Regalos,25.0,1.0,447,Centro
+358,02/01/2024,Globo Terraqueo,Decoracion,40.0,1.0,448,Oeste
+359,2024-01-02,Cubo Rubik,Juguetes,10.0,N/A,449,Este
+360,2024-01-03,Ajedrez,Juguetes,30.0,1.0,450,Norte
+361,2024-01-04,Domino,juguetes,15.0,1.0,451,Sur
+362,2024-01-05,,Juguetes,8.0,1.0,452,Centro
+363,2024-01-06,Yo-yo,Juguetes,5.0,2.0,453,Oeste
+364,2024-01-07,Cometa,Juguetes,12.0,1.0,454,Este
+365,2024-01-08,Frisbee,juguetes,-10.0,1.0,455,Norte
+366,2024-01-09,Caja Fuerte Pequena,Seguridad,50.0,1.0,456,Sur
+367,2024-01-10,Alarma para Puerta,Seguridad,15.0,2.0,457,Centro
+368,11/01/2024,Mirilla Digital,Seguridad,70.0,1.0,458,Oeste
+369,2024-01-12,Cerradura Inteligente,Seguridad,150.0,1.0,459,Este
+370,2024-01-13,Timbre con Video,Seguridad,100.0,1.0,460,Norte
+371,2024-01-14,Bocina Portatil,Audio,40.0,1.0,461,Sur
+372,2024-01-15,Sistema de Sonido Envolvente,audio,400.0,1.0,462,Centro
+373,2024-01-16,Barra de Sonido,Audio,150.0,1.0,463,Oeste
+374,2024-01-17,Subwoofer,Audio,120.0,1.0,464,Este
+375,2024-01-18,Amplificador de Audio,Audio,200.0,1.0,465,Norte
+376,2024-01-19,Tornamesa,audio,180.0,1.0,466,Sur
+377,2024-01-20,Coleccion de Vinilos,Musica,30.0,1.0,467,
+378,2024-01-21,Cargador Portatil de Alta Capacidad,Energia,60.0,1.0,468,Oeste
+379,22/01/2024,Estacion de Carga Multiple,Energia,35.0,1.0,469,Este
+380,2024-01-23,,Energia,10.0,1.0,470,Norte
+381,2024-01-24,Inversor de Corriente para Auto,Energia,40.0,1.0,471,Sur
+382,2024-01-25,Termometro de Carne,Cocina,15.0,N/A,472,Centro
+383,2024-01-26,Abrelatas Electrico,Cocina,20.0,1.0,473,Oeste
+384,2024-01-27,Triturador de Basura,Cocina,150.0,1.0,474,Este
+385,2024-01-28,Dispensador de Agua,Hogar,120.0,1.0,475,Norte
+386,2024-01-29,Calentador de Agua Electrico,hogar,100.0,1.0,476,Sur
+387,30/01/2024,Aire Acondicionado Portatil,Hogar,-350.0,1.0,477,Centro
+388,2024-01-31,Deshumidificador,Hogar,90.0,1.0,478,Oeste
+389,2024-02-01,Enfriador de Vinos,Cocina,200.0,1.0,479,Este
+390,2024-02-02,Fabrica de Hielo,Cocina,120.0,1.0,480,Norte
+391,2024-02-03,GoPro,Video,400.0,1.0,481,Sur
+392,2024-02-04,Estuche para Camara,video,30.0,1.0,482,Centro
+393,2024-02-05,Correa para Camara,Video,15.0,1.0,483,Oeste
+394,06/02/2024,Filtro para Lente,Video,20.0,1.0,484,Este
+395,2024-02-06,Reflector para Fotografia,Video,25.0,1.0,485,Norte
+396,2024-02-07,,Video,10.0,1.0,486,Sur
+397,2024-02-08,Fondo para Fotografia,Video,40.0,1.0,487,Centro
+398,2024-02-09,Mesa de Luz para Dibujo,Diseno,60.0,1.0,488,Oeste
+399,2024-02-10,Cortadora de Papel,Oficina,25.0,1.0,489,
+400,2024-02-11,Enmicadora,Oficina,40.0,1.0,490,Norte
+401,12/02/2024,Etiquetadora,Oficina,30.0,1.0,491,Sur
+402,2024-02-12,Cojin Lumbar,Muebles,20.0,1.0,492,Centro
+403,2024-02-13,Reposapies,Muebles,25.0,1.0,493,Oeste
+404,2024-02-14,Pluma Fuente,Oficina,35.0,1.0,494,Este
+405,2024-02-15,Tinta para Pluma Fuente,oficina,10.0,N/A,495,Norte
+406,2024-02-16,Sello Personalizado,Oficina,20.0,1.0,496,Sur
+407,2024-02-17,Papel Fotografico,Impresion,15.0,1.0,497,Centro
+408,2024-02-18,Cartucho de Tinta,impresion,30.0,2.0,498,Oeste
+409,2024-02-19,Toner para Impresora,Impresion,80.0,1.0,499,Este
+410,20/02/2024,Papel para Impresora (Resma),Impresion,-10.0,1.0,500,Norte
+411,2024-02-20,Bolsa para Mensajero,Accesorios,60.0,1.0,501,Sur
+412,2024-02-21,Portafolio,Accesorios,70.0,1.0,502,Centro
+413,2024-02-22,Cartera,accesorios,30.0,1.0,503,Oeste
+414,2024-02-23,,Accesorios,15.0,1.0,504,Este
+415,2024-02-24,Organizador de Escritorio,Oficina,20.0,1.0,505,Norte
+416,2024-02-25,Perforadora,Oficina,8.0,1.0,506,Sur
+417,2024-02-26,Tijeras,oficina,5.0,1.0,507,Centro
+418,2024-02-27,Cutter,Oficina,4.0,1.0,508,Oeste
+419,2024-02-28,Pegamento en Barra,Oficina,2.0,3.0,509,Este
+420,29/02/2024,Carpeta,Oficina,3.0,5.0,510,Norte
+421,2024-03-01,Sobre,Oficina,0.5,20.0,511,
+422,2024-03-02,Agenda Electronica,Electronica,50.0,1.0,512,Centro
+423,2024-03-03,Traductor Electronico,Electronica,80.0,1.0,513,Oeste
+424,2024-03-04,Grabadora de Voz Digital,electronica,40.0,1.0,514,Este
+425,2024-03-05,Puntero Laser,Presentacion,15.0,N/A,515,Norte
+426,2024-03-06,Control Remoto para Presentaciones,Presentacion,25.0,1.0,516,Sur
+427,07/03/2024,Pizarra Interactiva,Presentacion,-800.0,1.0,517,Centro
+428,2024-03-07,Proyector Portatil,Presentacion,250.0,1.0,518,Oeste
+429,2024-03-08,Pantalla para Proyector,Presentacion,100.0,1.0,519,Este
+430,2024-03-09,Megafono,Audio,30.0,1.0,520,Norte
+431,2024-03-10,Sistema de Karaoke,Audio,120.0,1.0,521,Sur
+432,2024-03-11,Bola de Discoteca,Fiesta,20.0,1.0,522,Centro
+433,2024-03-12,Maquina de Humo,fiesta,50.0,1.0,523,Oeste
+434,2024-03-13,Luces Estroboscopicas,Fiesta,25.0,1.0,524,Este
+435,2024-03-14,,Fiesta,10.0,1.0,525,Norte
+436,2024-03-15,Dispensador de Bebidas,Fiesta,30.0,1.0,526,Sur
+437,16/03/2024,Hielera con Ruedas,Fiesta,60.0,1.0,527,Centro
+438,2024-03-16,Sillas Plegables,Muebles,20.0,4.0,528,Oeste
+439,2024-03-17,Mesa Plegable,Muebles,40.0,1.0,529,Este
+440,2024-03-18,Mantel,Hogar,15.0,1.0,530,Norte
+441,2024-03-19,Servilletas de Tela,hogar,12.0,1.0,531,Sur
+442,2024-03-20,Camino de Mesa,Hogar,10.0,1.0,532,Centro
+443,2024-03-21,Cubre Sillas,Hogar,8.0,4.0,533,Oeste
+444,22/03/2024,Bolsas Reutilizables,Hogar,5.0,N/A,534,
+445,2024-03-22,Termometro Ambiental,Hogar,12.0,1.0,535,Norte
+446,2024-03-23,Barometro,Hogar,20.0,1.0,536,Sur
+447,2024-03-24,Estacion Meteorologica,Hogar,50.0,1.0,537,Centro
+448,2024-03-25,Tendedero de Ropa,Hogar,25.0,1.0,538,Oeste
+449,2024-03-26,Pinzas para Ropa,Hogar,3.0,1.0,539,Este
+450,2024-03-27,Tabla de Planchar,hogar,35.0,1.0,540,Norte
+451,2024-03-28,Funda para Tabla de Planchar,Hogar,10.0,1.0,541,Sur
+452,2024-03-29,,Hogar,5.0,1.0,542,Centro
+453,2024-03-30,Cesto para Ropa Sucia,Hogar,20.0,1.0,543,Oeste
+454,31/03/2024,Organizador de Zapatos,Hogar,30.0,1.0,544,Este
+455,2024-03-31,Ganchos para Ropa,Hogar,8.0,1.0,545,Norte
+456,2024-04-01,Funda para Ropa,Hogar,12.0,1.0,546,Sur
+457,2024-04-02,Caja de Almacenaje,Hogar,15.0,2.0,547,Centro
+458,2024-04-03,Separadores de Cajones,hogar,10.0,1.0,548,Oeste
+459,2024-04-04,Contenedor al Vacio,Hogar,20.0,1.0,549,Este
+460,2024-04-05,Zapatera,Muebles,50.0,1.0,550,Norte
+461,2024-04-06,Perchero,Muebles,-40.0,1.0,551,Sur
+462,07/04/2024,Espejo de Cuerpo Completo,Muebles,80.0,1.0,552,Centro
+463,2024-04-07,Buro,Muebles,60.0,1.0,553,Oeste
+464,2024-04-08,Comoda,Muebles,150.0,1.0,554,Este
+465,2024-04-09,Cabecera para Cama,muebles,100.0,1.0,555,Norte
+466,2024-04-10,Base para Cama,Muebles,200.0,1.0,556,Sur
+467,2024-04-11,,Muebles,50.0,1.0,557,Centro
+468,2024-04-12,Colchon,Muebles,300.0,1.0,558,Oeste
+469,2024-04-13,Almohada,Hogar,25.0,2.0,559,Este
+470,14/04/2024,Funda de Almohada,Hogar,10.0,N/A,560,Norte
+471,2024-04-14,Sabanas,Hogar,40.0,1.0,561,Sur
+472,2024-04-15,Edredon,Hogar,80.0,1.0,562,Centro
+473,2024-04-16,Manta,Hogar,30.0,1.0,563,Oeste
+474,2024-04-17,Toalla de Bano,hogar,20.0,2.0,564,Este
+475,2024-04-18,Bata de Bano,Hogar,35.0,1.0,565,Norte
+476,2024-04-19,Tapete de Bano,Hogar,15.0,1.0,566,Sur
+477,2024-04-20,Cortina de Bano,Hogar,18.0,1.0,567,Centro
+478,2024-04-21,Dispensador de Jabon,hogar,-12.0,1.0,568,Oeste
+479,22/04/2024,Portacepillos de Dientes,Hogar,8.0,1.0,569,
+480,2024-04-22,Escobilla para Bano,Hogar,10.0,1.0,570,Norte
+481,2024-04-23,Jabonera,Hogar,5.0,1.0,571,Sur
+482,2024-04-24,,Hogar,3.0,1.0,572,Centro
+483,2024-04-25,Repisa para Bano,Muebles,30.0,1.0,573,Oeste
+484,2024-04-26,Gabinete de Bano,Muebles,80.0,1.0,574,Este
+485,2024-04-27,Foco LED,Iluminacion,5.0,4.0,575,Norte
+486,2024-04-28,Tira de Luces LED,iluminacion,20.0,1.0,576,Sur
+487,2024-04-29,Lampara de Noche,Iluminacion,25.0,1.0,577,Centro
+488,2024-04-30,Lampara de Techo,Iluminacion,60.0,1.0,578,Oeste
+489,2024-05-01,Lampara de Escritorio,Iluminacion,30.0,1.0,579,Este
+490,2024-05-02,Interruptor de Luz Inteligente,Hogar,25.0,2.0,580,Norte
+491,03/05/2024,Abrepuertas de Garaje Inteligente,Hogar,150.0,1.0,581,Sur
+492,2024-05-03,Riego Inteligente,Jardineria,80.0,1.0,582,Centro
+493,2024-05-04,Sensor de Movimiento,Seguridad,18.0,N/A,583,Oeste
+494,2024-05-05,Sensor de Puerta/Ventana,seguridad,15.0,2.0,584,Este
+495,2024-05-06,Detector de Monoxido de Carbono,Seguridad,30.0,1.0,585,Norte
+496,2024-05-07,,Seguridad,10.0,1.0,586,Sur
+497,2024-05-08,Radio de Emergencia,Seguridad,40.0,1.0,587,Centro
+498,2024-05-09,Linterna Recargable,Seguridad,20.0,1.0,588,Oeste
+499,2024-05-10,Kit de Supervivencia,Seguridad,50.0,1.0,589,Este
+500,2024-05-11,Manta Termica de Emergencia,seguridad,5.0,5.0,590,Norte
+501,2024-05-12,Purificador de Agua UV,Campismo,60.0,1.0,591,Sur
+502,2024-05-13,Estufa de Campismo,Campismo,40.0,1.0,592,Centro
+503,2024-05-14,Tanque de Gas para Estufa,Campismo,8.0,2.0,593,Oeste
+504,15/05/2024,Encendedor a Prueba de Agua,Campismo,10.0,1.0,594,Este
+505,2024-05-15,Brujula,Campismo,-12.0,1.0,595,Norte
+506,2024-05-16,Mapa Topografico,Campismo,15.0,1.0,596,Sur
+507,2024-05-17,Botas de Senderismo,Ropa,120.0,1.0,597,Centro
+508,2024-05-18,Calcetines de Senderismo,ropa,15.0,2.0,598,Oeste
+509,2024-05-19,Pantalon Convertible,Ropa,60.0,1.0,599,Este
+510,2024-05-20,Chamarra Impermeable,Ropa,90.0,1.0,600,Norte
+511,2024-05-21,Bastones de Senderismo,Deportes,40.0,1.0,601,
+512,22/05/2024,Mochila de Hidratacion,Deportes,50.0,1.0,602,Centro
+513,2024-05-22,GPS para Senderismo,Electronica,200.0,1.0,603,Oeste
+514,2024-05-23,,Deportes,20.0,1.0,604,Este
+515,2024-05-24,Hamaca,Campismo,30.0,N/A,605,Norte
+516,2024-05-25,Silla de Campismo,Campismo,25.0,2.0,606,Sur
+517,2024-05-26,Mesa de Centro,muebles,80.0,1.0,607,Centro
+518,2024-05-27,Sofa,Muebles,500.0,1.0,608,Oeste
+519,2024-05-28,Sillon,Muebles,250.0,1.0,609,Este
+520,2024-05-29,Mesa de Comedor,Muebles,300.0,1.0,610,Norte
+521,30/05/2024,Sillas de Comedor,Muebles,50.0,4.0,611,Sur
+522,2024-05-30,Vitrina,Muebles,-180.0,1.0,612,Centro
+523,2024-05-31,Librero,Muebles,120.0,1.0,613,Oeste
+524,2024-06-01,Repisa Flotante,Muebles,25.0,2.0,614,Este
+525,2024-06-02,Mueble para TV,Muebles,150.0,1.0,615,Norte
+526,2024-06-03,Soporte de Pared para TV,Accesorios,40.0,1.0,616,Sur
+527,2024-06-04,Cable de Fibra Optica de Audio,Audio,15.0,1.0,617,Centro
+528,2024-06-05,Divisor de Audifonos,audio,8.0,1.0,618,Oeste
+529,2024-06-06,Adaptador de Bluetooth para Audio,Audio,20.0,1.0,619,Este
+530,2024-06-07,,Audio,10.0,1.0,620,Norte
+531,2024-06-08,Preamplificador de Microfono,Audio,50.0,1.0,621,Sur
+532,2024-06-09,Filtro Anti-Pop,Audio,15.0,1.0,622,Centro
+533,2024-06-10,Soporte para Microfono,Audio,25.0,1.0,623,Oeste
+534,11/06/2024,Espuma Acustica,Audio,30.0,N/A,624,Este
+535,2024-06-11,DJ Controller,Musica,300.0,1.0,625,Norte
+536,2024-06-12,Maquina de Ritmos,Musica,200.0,1.0,626,Sur
+537,2024-06-13,Sintetizador,Musica,400.0,1.0,627,Centro
+538,2024-06-14,Violin,musica,180.0,1.0,628,Oeste
+539,2024-06-15,Cello,Musica,300.0,1.0,629,Este
+540,2024-06-16,Flauta,Musica,40.0,1.0,630,Norte
+541,2024-06-17,Armonica,musica,-20.0,1.0,631,Sur
+542,2024-06-18,Acordeon,Musica,250.0,1.0,632,Centro
+543,19/06/2024,Bongoes,Musica,60.0,1.0,633,Oeste
+544,2024-06-19,Pandereta,Musica,15.0,1.0,634,Este
+545,2024-06-20,Maracas,Musica,10.0,1.0,635,Norte
+546,2024-06-21,Cajon,Musica,80.0,1.0,636,
+547,2024-06-22,,Musica,5.0,1.0,637,Centro
+548,2024-06-23,Diapason,Musica,8.0,1.0,638,Oeste
+549,2024-06-24,Metronomo,Musica,20.0,1.0,639,Este
+550,2024-06-25,Software de Notacion Musical,Software,150.0,1.0,640,Norte
+551,2024-06-26,Plugin VST,Software,50.0,1.0,641,Sur
+552,2024-06-27,Sample Pack,Software,25.0,1.0,642,Centro
+553,2024-06-28,Funda para Teclado Musical,Musica,35.0,1.0,643,Oeste
+554,29/06/2024,Pedal de Sustain,Musica,20.0,N/A,644,Este
+555,2024-06-29,Banco para Piano,Musica,50.0,1.0,645,Norte
+556,2024-06-30,Diario,Oficina,12.0,1.0,646,Sur
+557,2024-07-01,Cuaderno Inteligente,Oficina,30.0,1.0,647,Centro
+558,2024-07-02,Escaner Portatil,Oficina,80.0,1.0,648,Oeste
+559,2024-07-03,Mini Impresora Termica,impresion,50.0,1.0,649,Este
+560,2024-07-04,Filamento para Impresora 3D,Diseno,-25.0,1.0,650,Norte
+561,2024-07-05,Resina para Impresora 3D,Diseno,40.0,1.0,651,Sur
+562,06/07/2024,Calibrador Digital,Herramientas,20.0,1.0,652,Centro
+563,2024-07-06,Lupa con Luz,Herramientas,15.0,1.0,653,Oeste
+564,2024-07-07,Tercera Mano para Soldar,Herramientas,18.0,1.0,654,Este
+565,2024-07-08,Cautin,Herramientas,25.0,1.0,655,Norte
+566,2024-07-09,Soldadura de Estano,herramientas,8.0,1.0,656,Sur
+567,2024-07-10,,Herramientas,5.0,1.0,657,Centro
+568,2024-07-11,Bomba para Desoldar,Herramientas,10.0,1.0,658,Oeste
+569,2024-07-12,Protoboard,Electronica,7.0,1.0,659,Este
+570,2024-07-13,Kit de Resistencias,Electronica,12.0,1.0,660,Norte
+571,14/07/2024,Kit de Capacitores,Electronica,10.0,N/A,661,Sur
+572,2024-07-14,Kit de LEDs,Electronica,8.0,1.0,662,Centro
+573,2024-07-15,Arduino,Electronica,25.0,1.0,663,Oeste
+574,2024-07-16,Raspberry Pi,Electronica,40.0,1.0,664,Este
+575,2024-07-17,Kit de Sensores para Arduino,electronica,35.0,1.0,665,Norte
+576,2024-07-18,Fuente de Alimentacion para Protoboard,Electronica,15.0,1.0,666,Sur
+577,2024-07-19,Cables Jumper,Electronica,5.0,1.0,667,Centro
+578,2024-07-20,Motor a Pasos,Electronica,10.0,2.0,668,Oeste
+579,2024-07-21,Servomotor,electronica,8.0,2.0,669,
+580,22/07/2024,Pantalla LCD para Arduino,Electronica,-12.0,1.0,670,Norte
+581,2024-07-22,Relevador,Electronica,3.0,5.0,671,Sur
+582,2024-07-23,,Electronica,2.0,1.0,672,Centro
+583,2024-07-24,Ventilador de PC,Componentes,10.0,2.0,673,Oeste
+584,2024-07-25,Disipador para CPU,Componentes,30.0,1.0,674,Este
+585,2024-07-26,Controlador de Ventiladores,Componentes,20.0,1.0,675,Norte
+586,2024-07-27,Cable de Extension para Fuente de Poder,Componentes,15.0,1.0,676,Sur
+587,2024-07-28,Tornillos para PC,Componentes,5.0,1.0,677,Centro
+588,2024-07-29,Adaptador WiFi USB,Redes,20.0,1.0,678,Oeste
+589,30/07/2024,Tarjeta de Red PCIe,Redes,25.0,N/A,679,Este
+590,2024-07-30,Antena WiFi de Alta Ganancia,Redes,18.0,1.0,680,Norte
+591,2024-07-31,Herramienta para Crimpar,Redes,22.0,1.0,681,Sur
+592,2024-08-01,Conectores RJ45,Redes,8.0,1.0,682,Centro
+593,2024-08-02,Probador de Cable de Red,redes,15.0,1.0,683,Oeste
+594,2024-08-03,Switch PoE,Redes,80.0,1.0,684,Este
+595,2024-08-04,Inyector PoE,Redes,20.0,1.0,685,Norte
+596,2024-08-05,Punto de Acceso WiFi,Redes,70.0,1.0,686,Sur
+597,2024-08-06,,Redes,10.0,1.0,687,Centro
+598,2024-08-07,Firewall,Seguridad,200.0,1.0,688,Oeste
+599,2024-08-08,Servidor de Impresion,Redes,60.0,1.0,689,Este
+600,09/08/2024,Rack para Servidor,Redes,-300.0,1.0,690,Norte
+601,2024-08-09,PDU para Rack,Redes,100.0,1.0,691,Sur
+602,2024-08-10,KVM Switch,Redes,80.0,1.0,692,Centro
+603,2024-08-11,Caddy para Disco Duro,Almacenamiento,10.0,1.0,693,Oeste
+604,2024-08-12,Carcasa para Disco Duro Externo,Almacenamiento,20.0,1.0,694,Este
+605,2024-08-13,Lector de DNI Electronico,Perifericos,15.0,1.0,695,Norte
+606,2024-08-14,Joystick,Videojuegos,40.0,1.0,696,Sur
+607,2024-08-15,Arcade Stick,videojuegos,150.0,1.0,697,Centro
+608,2024-08-16,Audifonos para Gaming,Videojuegos,80.0,N/A,698,Oeste
+609,2024-08-17,,Videojuegos,20.0,1.0,699,Este
+610,2024-08-18,Suscripcion a Servicio de Juegos,Videojuegos,15.0,1.0,700,Norte
+611,2024-08-19,Moneda Virtual para Juegos,Videojuegos,20.0,1.0,701,
+612,2024-08-20,Figura Amiibo,Videojuegos,18.0,1.0,702,Centro
+613,2024-08-21,Guia de Estrategia,Libros,25.0,1.0,703,Oeste
+614,2024-08-22,Comic,libros,10.0,1.0,704,Este
+615,2024-08-23,Manga,Libros,12.0,1.0,705,Norte
+616,2024-08-24,Libro de Arte,Libros,40.0,1.0,706,Sur
+617,2024-08-25,Biografia,Libros,22.0,1.0,707,Centro
+618,2024-08-26,Diccionario,libros,-18.0,1.0,708,Oeste
+619,2024-08-27,Enciclopedia,Libros,60.0,1.0,709,Este
+620,2024-08-28,,Libros,10.0,1.0,710,Norte
+621,2024-08-29,Separador de Libros,Libros,3.0,1.0,711,Sur
+622,2024-08-30,Luz de Lectura,Libros,10.0,1.0,712,Centro
+623,2024-08-31,Soporte para Libros,Libros,15.0,1.0,713,Oeste
+624,2024-09-01,Estante para Libros,Muebles,70.0,1.0,714,Este
+625,02/09/2024,Sillon de Lectura,Muebles,180.0,1.0,715,Norte
+626,2024-09-02,Funda para Libro,Libros,12.0,1.0,716,Sur
+627,2024-09-03,Kit de Caligrafia,Arte,25.0,1.0,717,Centro
+628,2024-09-04,Sellos de Goma,Arte,15.0,N/A,718,Oeste
+629,2024-09-05,Tinta para Sellos,Arte,5.0,1.0,719,Este
+630,2024-09-06,Papel Decorativo,Arte,8.0,1.0,720,Norte
+631,2024-09-07,Pegatinas,arte,4.0,1.0,721,Sur
+632,2024-09-08,Washi Tape,Arte,6.0,1.0,722,Centro
+633,2024-09-09,,Arte,3.0,1.0,723,Oeste
+634,2024-09-10,Kit de Origami,Arte,10.0,1.0,724,Este
+635,2024-09-11,Pistola de Pegamento,Herramientas,12.0,1.0,725,Norte
+636,12/09/2024,Barras de Pegamento,Herramientas,-3.0,1.0,726,Sur
+637,2024-09-12,Cera para Sellar,Arte,15.0,1.0,727,Centro
+638,2024-09-13,Sello para Lacre,Arte,10.0,1.0,728,Oeste
+639,2024-09-14,Album de Fotos,Recuerdos,30.0,1.0,729,Este
+640,2024-09-15,Libro de Recortes,Recuerdos,25.0,1.0,730,Norte
+641,2024-09-16,Marco de Fotos,Recuerdos,15.0,2.0,731,Sur
+642,2024-09-17,Caja de Recuerdos,Recuerdos,20.0,1.0,732,Centro
+643,2024-09-18,Imanes para Refrigerador,Decoracion,5.0,5.0,733,Oeste
+644,19/09/2024,Posavasos,Hogar,10.0,N/A,734,Este
+645,2024-09-19,,Decoracion,8.0,1.0,735,Norte
+646,2024-09-20,Mantel Individual,Hogar,7.0,4.0,736,Sur
+647,2024-09-21,Abrebotellas,Cocina,5.0,1.0,737,Centro
+648,2024-09-22,Tabla de Quesos,cocina,30.0,1.0,738,Oeste
+649,2024-09-23,Rallador de Queso,Cocina,10.0,1.0,739,Este
+650,2024-09-24,Prensa de Ajos,Cocina,8.0,1.0,740,
+651,2024-09-25,Pelador de Papas,Cocina,6.0,1.0,741,Sur
+652,2024-09-26,Batidor de Globo,cocina,7.0,1.0,742,Centro
+653,2024-09-27,Espatula de Silicona,Cocina,8.0,1.0,743,Oeste
+654,2024-09-28,Cucharon,Cocina,7.0,1.0,744,Este
+655,2024-09-29,Pinzas de Cocina,Cocina,9.0,1.0,745,Norte
+656,2024-09-30,Colador,Cocina,10.0,1.0,746,Sur
+657,2024-10-01,Tazon para Mezclar,Cocina,12.0,2.0,747,Centro
+658,2024-10-02,Tazas Medidoras,cocina,-8.0,1.0,748,Oeste
+659,2024-10-03,Cucharas Medidoras,Cocina,6.0,1.0,749,Este
+660,2024-10-04,Rodillo,Cocina,15.0,1.0,750,Norte
+661,2024-10-05,Molde para Hornear,Cocina,18.0,1.0,751,Sur
+662,2024-10-06,,Cocina,10.0,1.0,752,Centro
+663,2024-10-07,Guantes para Horno,Cocina,12.0,1.0,753,Oeste
+664,2024-10-08,Delantal,Cocina,15.0,1.0,754,Este
+665,2024-10-09,Libro de Recetas,Libros,20.0,1.0,755,Norte
+666,2024-10-10,Soporte para Tablet en Cocina,Accesorios,18.0,1.0,756,Sur
+667,11/10/2024,Dispensador de Papel de Cocina,Cocina,15.0,1.0,757,Centro
+668,2024-10-11,Escurridor de Platos,Cocina,25.0,N/A,758,Oeste
+669,2024-10-12,Bote de Basura con Pedal,Cocina,40.0,1.0,759,Este
+670,2024-10-13,Bolsas de Basura,Hogar,8.0,1.0,760,Norte
+671,2024-10-14,Filtro para Cafe,Cocina,5.0,1.0,761,Sur
+672,2024-10-15,Capsulas de Cafe,cocina,20.0,1.0,762,Centro
+673,2024-10-16,Te en Hojas,Bebidas,12.0,1.0,763,Oeste
+674,2024-10-17,Infusor de Te,Bebidas,8.0,1.0,764,Este
+675,2024-10-18,Tetera,bebidas,-25.0,1.0,765,Norte
+676,2024-10-19,Azucarera,Cocina,10.0,1.0,766,Sur
+677,2024-10-20,Salero y Pimentero,Cocina,12.0,1.0,767,Centro
+678,2024-10-21,Especiero,Cocina,20.0,1.0,768,Oeste
+679,2024-10-22,Mortero,cocina,18.0,1.0,769,Este
+680,2024-10-23,,Cocina,10.0,1.0,770,Norte
+681,2024-10-24,Aceitera,Cocina,15.0,1.0,771,Sur
+682,2024-10-25,Vinagrera,Cocina,15.0,1.0,772,Centro
+683,2024-10-26, Dispensador de Cereales,Cocina,25.0,1.0,773,Oeste
+684,2024-10-27,Porta Rollo de Papel Higienico,Hogar,12.0,1.0,774,
+685,2024-10-28,Toallero,Hogar,15.0,1.0,775,Norte
+686,2024-10-29,Gancho para Toalla,Hogar,8.0,2.0,776,Sur
+687,2024-10-30,Espejo con Luz,Muebles,100.0,1.0,777,Centro
+688,2024-10-31,Organizador de Maquillaje,Cuidado Personal,20.0,N/A,778,Oeste
+689,2024-11-01,Esponja de Maquillaje,Cuidado Personal,7.0,1.0,779,Este
+690,2024-11-02,Set de Brochas de Maquillaje,cuidado personal,25.0,1.0,780,Norte
+691,2024-11-03,Limpiador de Brochas,Cuidado Personal,10.0,1.0,781,Sur
+692,2024-11-04,Espejo de Aumento,Cuidado Personal,15.0,1.0,782,Centro
+693,2024-11-05,Pinzas de Depilar,Cuidado Personal,5.0,1.0,783,Oeste
+694,2024-11-06,Cortaunas,cuidado personal,4.0,1.0,784,Este
+695,2024-11-07,Lima de Unas,Cuidado Personal,3.0,1.0,785,Norte
+696,2024-11-08,,Cuidado Personal,2.0,1.0,786,Sur
+697,2024-11-09,Neceser,Viajes,18.0,1.0,787,Centro
+698,2024-11-10,Bolsa de Aseo,Viajes,15.0,1.0,788,Oeste
+699,2024-11-11,Botellas de Viaje Rellenables,Viajes,-8.0,1.0,789,Este
+700,2024-11-12,Identificador de Equipaje,Viajes,6.0,1.0,790,Norte
+701,2024-11-13,Bascula para Equipaje,Viajes,12.0,1.0,791,Sur
+702,2024-11-14,Candado TSA,Viajes,10.0,1.0,792,Centro
+703,2024-11-15,Antifaz para Dormir,Viajes,7.0,1.0,793,Oeste
+704,2024-11-16,Tapones para los Oidos,Viajes,5.0,1.0,794,Este
+705,2024-11-17,Organizador de Maleta,Viajes,20.0,1.0,795,Norte
+706,2024-11-18,Bolsa para Zapatos,Viajes,10.0,1.0,796,Sur
+707,2024-11-19,Bolsa para Ropa Sucia,Viajes,8.0,1.0,797,
+708,2024-11-20,Portadocumentos de Viaje,Viajes,15.0,1.0,798,Oeste
+709,2024-11-21,Cinturon con Bolsillo Secreto,Viajes,20.0,1.0,799,Este
+710,2024-11-22,,Viajes,10.0,1.0,800,Norte
+711,2024-11-23,Carpa de Playa,Exterior,50.0,1.0,801,Sur
+712,2024-11-24,Silla de Playa,Exterior,25.0,N/A,802,Centro
+713,2024-11-25,Sombrilla de Playa,Exterior,30.0,1.0,803,Oeste
+714,2024-11-26,Toalla de Playa,Exterior,20.0,1.0,804,Este
+715,2024-11-27,Juguetes de Playa,Juguetes,15.0,1.0,805,Norte
+716,2024-11-28,Hielera Portatil,Exterior,35.0,1.0,806,Sur
+717,2024-11-29,Termo para Agua,Exterior,20.0,1.0,807,Centro
+718,2024-11-30,Flotador,Natacion,10.0,1.0,808,Oeste
+719,2024-12-01,Tabla de Bodyboard,natacion,-25.0,1.0,809,Este
+720,2024-12-02,Aletas de Natacion,Natacion,30.0,1.0,810,Norte
+721,2024-12-03,Snorkel,Natacion,20.0,1.0,811,Sur
+722,2024-12-04,Visor de Buceo,Natacion,25.0,1.0,812,Centro
+723,2024-12-05,,Natacion,15.0,1.0,813,Oeste
+724,2024-12-06,Chaleco Salvavidas,Natacion,40.0,1.0,814,Este
+725,2024-12-07,Bolsa Estanca,Natacion,18.0,1.0,815,Norte
+726,2024-12-08,Funda Impermeable para Celular,Accesorios,12.0,1.0,816,Sur
+727,2024-12-09,Cama para Mascota,Mascotas,40.0,1.0,817,Centro
+728,2024-12-10,Comedero para Mascota,mascotas,15.0,1.0,818,Oeste
+729,2024-12-11,Bebedero para Mascota,Mascotas,15.0,1.0,819,Este
+730,2024-12-12,Juguete para Mascota,Mascotas,8.0,2.0,820,Norte
+731,2024-12-13,Correa para Mascota,Mascotas,12.0,1.0,821,
+732,2024-12-14,Collar para Mascota,Mascotas,10.0,N/A,822,Centro
+733,2024-12-15,Placa de Identificacion para Mascota,Mascotas,7.0,1.0,823,Oeste
+734,2024-12-16,Arena para Gato,Mascotas,15.0,1.0,824,Este
+735,2024-12-17,Arenero para Gato,mascotas,20.0,1.0,825,Norte
+736,2024-12-18,Rascador para Gato,Mascotas,30.0,1.0,826,Sur
+737,2024-12-19,Transportadora para Mascota,Mascotas,50.0,1.0,827,Centro
+738,2024-12-20,,Mascotas,10.0,1.0,828,Oeste
+739,2024-12-21,Shampoo para Mascota,Mascotas,12.0,1.0,829,Este
+740,2024-12-22,Cepillo para Mascota,Mascotas,10.0,1.0,830,Norte
+741,2024-12-23,Cortaunas para Mascota,Mascotas,-8.0,1.0,831,Sur
+742,2024-12-24,Alimento para Perro,Mascotas,40.0,1.0,832,Centro
+743,2024-12-25,Alimento para Gato,mascotas,35.0,1.0,833,Oeste
+744,2024-12-26,Premios para Mascota,Mascotas,10.0,1.0,834,Este
+745,2024-12-27,Bolsas para Heces,Mascotas,5.0,1.0,835,Norte
+746,2024-12-28,Ropa para Mascota,Ropa,15.0,1.0,836,Sur
+747,2024-12-29,GPS para Mascota,Electronica,50.0,1.0,837,Centro
+748,2024-12-30,Camara para Mascota,electronica,80.0,1.0,838,Oeste
+749,2024-12-31,Dispensador de Comida Automatico,Mascotas,70.0,1.0,839,Este
+750,2025-01-01,Fuente de Agua para Mascota,Mascotas,30.0,1.0,840,Norte
+751,2025-01-02,Puerta para Mascota,Hogar,25.0,1.0,841,Sur
+752,2025-01-03,Cinturon de Seguridad para Mascota,Viajes,15.0,N/A,842,Centro
+753,2025-01-04,,Mascotas,10.0,1.0,843,Oeste
+754,2025-01-05,Valla para Bebe,Seguridad,60.0,1.0,844,Este
+755,2025-01-06,Monitor para Bebe,Seguridad,100.0,1.0,845,Norte
+756,2025-01-07,Silla de Auto para Bebe,Viajes,150.0,1.0,846,Sur
+757,2025-01-08,Carriola,Viajes,200.0,1.0,847,
+758,2025-01-09,Cuna,Muebles,-250.0,1.0,848,Oeste
+759,2025-01-10,Cambiador para Bebe,Muebles,80.0,1.0,849,Este
+760,2025-01-11,Mecedora,Muebles,120.0,1.0,850,Norte
+761,2025-01-12,Gimnasio para Bebe,Juguetes,40.0,1.0,851,Sur
+762,2025-01-13,Movil para Cuna,Juguetes,30.0,1.0,852,Centro
+763,2025-01-14,Biberon,Bebe,10.0,2.0,853,Oeste
+764,2025-01-15,Esterilizador de Biberones,bebe,40.0,1.0,854,Este
+765,2025-01-16,Calentador de Biberones,Bebe,30.0,1.0,855,Norte
+766,2025-01-17,Extractor de Leche,Bebe,80.0,1.0,856,Sur
+767,2025-01-18,Panales,Bebe,25.0,1.0,857,Centro
+768,2025-01-19,Toallitas Humedas,bebe,5.0,1.0,858,Oeste
+769,2025-01-20,,Bebe,3.0,1.0,859,Este
+770,2025-01-21,Mochila Panalera,Viajes,50.0,1.0,860,Norte
+771,2025-01-22,Canguro para Bebe,Viajes,40.0,1.0,861,Sur
+772,2025-01-23,Juguete de Mordedera,Juguetes,8.0,N/A,862,Centro
+773,2025-01-24,Libro de Tela para Bebe,Juguetes,12.0,1.0,863,Oeste
+774,2025-01-25,Sonaja,Juguetes,7.0,1.0,864,Este
+775,2025-01-26,Andadera,Bebe,60.0,1.0,865,Norte
+776,2025-01-27,Periquera,bebe,-90.0,1.0,866,Sur
+777,2025-01-28,Tina para Bebe,Bebe,25.0,1.0,867,Centro
+778,2025-01-29,Termometro de Bano,Bebe,10.0,1.0,868,Oeste
+779,2025-01-30,Aspirador Nasal,Bebe,15.0,1.0,869,Este
+780,2025-01-31,Kit de Cuidado para Bebe,Bebe,20.0,1.0,870,
+781,2025-02-01,Ropa para Bebe,Ropa,18.0,1.0,871,Sur
+782,2025-02-02,Zapatitos para Bebe,Ropa,15.0,1.0,872,Centro
+783,2025-02-03,Cobija para Bebe,Hogar,20.0,1.0,873,Oeste
+784,2025-02-04,Toalla con Capucha,Hogar,18.0,1.0,874,Este
+785,2025-02-05,Album de Fotos para Bebe,Recuerdos,25.0,1.0,875,Norte
+786,2025-02-06,Kit para Huellas de Bebe,recuerdos,20.0,1.0,876,Sur
+787,2025-02-07,,Recuerdos,15.0,1.0,877,Centro
+788,2025-02-08,Caja de Dientes de Leche,Recuerdos,12.0,1.0,878,Oeste
+789,2025-02-09,Cuadro de Nacimiento,Decoracion,30.0,1.0,879,Este
+790,2025-02-10,Vinilos Decorativos Infantiles,Decoracion,20.0,1.0,880,Norte
+791,2025-02-11,Lampara Infantil,Iluminacion,30.0,1.0,881,Sur
+792,2025-02-12,Medidor de Estatura,Decoracion,15.0,N/A,882,Centro
+793,2025-02-13,Caja de Juguetes,Muebles,40.0,1.0,883,Oeste
+794,2025-02-14,Mesa y Sillas Infantiles,muebles,-70.0,1.0,884,Este
+795,2025-02-15,Pizarron Infantil,Juguetes,35.0,1.0,885,Norte
+796,2025-02-16,Triciclo,Juguetes,60.0,1.0,886,Sur
+797,2025-02-17,Bicicleta Infantil,Juguetes,100.0,1.0,887,Centro
+798,2025-02-18,Casco Infantil,Deportes,25.0,1.0,888,Oeste
+799,2025-02-19,Rodilleras y Coderas,Deportes,20.0,1.0,889,Este
+800,2025-02-20,,Juguetes,15.0,1.0,890,Norte
+801,2025-02-21,Cuentos Infantiles,Libros,10.0,1.0,891,Sur
+802,2025-02-22,Libro para Colorear,Libros,7.0,1.0,892,Centro
+803,2025-02-23,Crayones,Arte,5.0,1.0,893,Oeste
+804,2025-02-24,Pintura de Dedos,arte,10.0,1.0,894,Este
+805,2025-02-25,Masa Moldeable,Arte,8.0,1.0,895,Norte
+806,2025-02-26,Burbujas,Juguetes,4.0,1.0,896,Sur
+807,2025-02-27,Avion de Papel,Juguetes,2.0,1.0,897,Centro
+808,2025-02-28,Trompo,Juguetes,6.0,1.0,898,
+809,2025-03-01,Canicas,Juguetes,5.0,N/A,899,Este
+810,2025-03-02,Matatena,Juguetes,4.0,1.0,900,Norte
+811,2025-03-03,Juego de Te de Juguete,Juguetes,20.0,1.0,901,Sur
+812,2025-03-04,Cocinita de Juguete,juguetes,-80.0,1.0,902,Centro
+813,2025-03-05,Herramientas de Juguete,Juguetes,25.0,1.0,903,Oeste
+814,2025-03-06,Kit de Doctor de Juguete,Juguetes,22.0,1.0,904,Este
+815,2025-03-07,Casa de Munecas,Juguetes,120.0,1.0,905,Norte
+816,2025-03-08,Muneca,Juguetes,20.0,1.0,906,Sur
+817,2025-03-09,Coche de Juguete,Juguetes,10.0,1.0,907,Centro
+818,2025-03-10,Pista de Carreras,juguetes,50.0,1.0,908,Oeste
+819,2025-03-11,Tren de Juguete,Juguetes,40.0,1.0,909,Este
+820,2025-03-12,Bloques de Construccion,Juguetes,30.0,1.0,910,Norte
+821,2025-03-13,Instrumentos Musicales de Juguete,Juguetes,25.0,1.0,911,Sur
+822,2025-03-14,Microfono de Juguete,Juguetes,15.0,1.0,912,Centro
+823,2025-03-15,,Juguetes,10.0,1.0,913,Oeste
+824,2025-03-16,Walkie Talkie de Juguete,Juguetes,20.0,1.0,914,Este
+825,2025-03-17,Dron de Juguete,Juguetes,40.0,1.0,915,Norte
+826,2025-03-18,Lanzador de Dardos,Juguetes,25.0,1.0,916,Sur
+827,2025-03-19,Pistola de Agua,Juguetes,15.0,1.0,917,Centro
+828,2025-03-20,Resortera,Juguetes,10.0,N/A,918,Oeste
+829,2025-03-21,Arco y Flecha de Juguete,Juguetes,20.0,1.0,919,Este
+830,2025-03-22,Espada de Juguete,Juguetes,-12.0,1.0,920,Norte
+831,2025-03-23,Escudo de Juguete,Juguetes,10.0,1.0,921,Sur
+832,2025-03-24,Disfraz de Superheroe,Ropa,35.0,1.0,922,Centro
+833,2025-03-25,Mascara,Ropa,8.0,1.0,923,Oeste
+834,2025-03-26,Capa,ropa,12.0,1.0,924,Este
+835,2025-03-27,Kit de Magia,Juguetes,20.0,1.0,925,Norte
+836,2025-03-28,Varita Magica,Juguetes,10.0,1.0,926,
+837,2025-03-29,,Juguetes,5.0,1.0,927,Centro
+838,2025-03-30,Sombrero de Mago,Juguetes,8.0,1.0,928,Oeste
+839,2025-03-31,Kit de Experimentos Cientificos,Ciencia,30.0,1.0,929,Este
+840,2025-04-01,Volcan de Juguete,Ciencia,20.0,1.0,930,Norte
+841,2025-04-02,Esqueleto para Armar,Ciencia,25.0,1.0,931,Sur
+842,2025-04-03,Kit de Cultivo de Cristales,ciencia,18.0,1.0,932,Centro
+843,2025-04-04,Hormiguero,Ciencia,22.0,1.0,933,Oeste
+844,2025-04-05,Juego de Quimica,Ciencia,35.0,1.0,934,Este
+845,2025-04-06,Juego de Electronica,Ciencia,40.0,1.0,935,Norte
+846,2025-04-07,Modelo del Sistema Solar,Ciencia,-30.0,1.0,936,Sur
+847,2025-04-08,,Ciencia,15.0,1.0,937,Centro
+848,2025-04-09,CD de Musica,Musica,15.0,1.0,938,Oeste
+849,2025-04-10,Pelicula en Blu-Ray,Video,20.0,1.0,939,Este
+850,2025-04-11,Serie de TV en DVD,Video,30.0,1.0,940,Norte
+851,2025-04-12,Videojuego Fisico,Videojuegos,60.0,1.0,941,Sur
+852,2025-04-13,Consola de Videojuegos Retro,Videojuegos,80.0,N/A,942,Centro
+853,2025-04-14,Maquina Arcade Mini,Videojuegos,50.0,1.0,943,Oeste
+854,2025-04-15,Pinball,juguetes,400.0,1.0,944,Este
+855,2025-04-16,Mesa de Billar,Juegos,500.0,1.0,945,Norte
+856,2025-04-17,Mesa de Futbolito,Juegos,300.0,1.0,946,Sur
+857,2025-04-18,Mesa de Air Hockey,Juegos,250.0,1.0,947,Centro
+858,2024-08-16,Audifonos para Gaming,Videojuegos,80.0,1.0,698,Oeste
+859,2025-04-19,Mesa de Ping Pong,juegos,200.0,1.0,948,Oeste
+860,2025-04-20,Diana de Dardos,Juegos,40.0,1.0,949,Este
+861,2025-04-21,,Juegos,20.0,1.0,950,Norte
+862,2025-04-22,Cama Elastica,Juegos,150.0,1.0,951,Sur
+863,2025-04-23,Columpio,Juegos,80.0,1.0,952,Centro
+864,2025-04-24,Resbaladilla,juegos,100.0,1.0,953,Oeste
+865,2025-04-25,Casa de Juegos Infantil,Juegos,-200.0,1.0,954,Este
+866,2025-04-26,Arenero Infantil,Juegos,60.0,1.0,955,Norte
+867,2025-04-27,Alberca Inflable,Juegos,40.0,1.0,956,Sur
+868,2025-04-28,Pistolas Laser,Juguetes,50.0,2.0,957,Centro
+869,2025-04-29,Telescopio para Ninos,Ciencia,50.0,1.0,958,Oeste
+870,2025-04-30,Microscopio para Ninos,ciencia,40.0,N/A,959,Este
+871,2025-05-01,Kit de Quimica para Ninos,Ciencia,25.0,1.0,960,Norte
+872,2025-05-02,Libro de Dinosaurios,Libros,15.0,1.0,961,Sur
+873,2025-05-03,Juguete de Dinosaurio,Juguetes,12.0,1.0,962,Centro
+874,2025-05-04,Disfraz de Dinosaurio,Ropa,30.0,1.0,963,Oeste
+875,2025-05-05,,Juguetes,10.0,1.0,964,Este
+876,2025-05-06,Poster del Espacio,Decoracion,12.0,1.0,965,Norte
+877,2025-05-07,Cohete de Juguete,Juguetes,20.0,1.0,966,Sur
+878,2025-05-08,Disfraz de Astronauta,ropa,-35.0,1.0,967,Centro
+879,2025-05-09,Proyector de Estrellas,Iluminacion,25.0,1.0,968,Oeste
+880,2025-05-10,Comida de Astronauta,Curiosidades,8.0,1.0,969,Este
+881,2025-05-11,Libro de Animales,Libros,15.0,1.0,970,Norte
+882,2025-05-12,Figuras de Animales de Juguete,Juguetes,20.0,1.0,971,Sur
+883,2025-05-13,Documental de Animales,Video,18.0,1.0,972,Centro
+884,2025-05-14,,Juguetes,10.0,1.0,973,Oeste
+885,2025-05-15,Binoculares para Ninos,Exterior,20.0,1.0,974,Este
+886,2025-05-16,Kit de Explorador,Exterior,30.0,1.0,975,Norte
+887,2025-05-17,Lupa para Ninos,Exterior,8.0,1.0,976,Sur
+888,2025-05-18,Red para Insectos,exterior,10.0,1.0,977,Centro
+889,2025-05-19,Frasco para Insectos,Exterior,6.0,N/A,978,Oeste
+890,2025-05-20,Guia de Campo de Insectos,Libros,12.0,1.0,979,Este
+891,2025-05-21,Prensa para Flores,Arte,15.0,1.0,980,Norte
+892,2025-05-22,Herbario,Libros,20.0,1.0,981,Sur
+893,2025-05-23,Semillas para Plantar,Jardineria,-5.0,1.0,982,Centro
+894,2025-05-24,Kit de Jardineria para Ninos,Jardineria,20.0,1.0,983,Oeste
+895,2025-05-25,Regadera Pequena,Jardineria,10.0,1.0,984,Este
+896,2025-05-26,Carretilla de Juguete,Jardineria,25.0,1.0,985,Norte
+897,2025-05-27,,Jardineria,15.0,1.0,986,Sur
+898,2025-05-28,Mandil para Ninos,Arte,12.0,1.0,987,Centro
+899,2025-05-29,Kit de Cocina para Ninos,Cocina,30.0,1.0,988,Oeste
+900,2025-05-30,Gorro de Chef para Ninos,Cocina,8.0,1.0,989,Este
+901,2025-05-31,Libro de Cocina para Ninos,Libros,15.0,1.0,990,Norte
+902,2025-06-01,Moldes para Galletas,Cocina,10.0,1.0,991,Sur
+903,2025-06-02,Chispas de Colores,Cocina,5.0,1.0,992,Centro
+904,2025-06-03,Kit para Decorar Cupcakes,cocina,18.0,1.0,993,Oeste
+905,2025-06-04,Maquina para Hacer Palomitas,Cocina,40.0,1.0,994,Este
+906,2025-06-05,Maquina de Algodon de Azucar,Cocina,50.0,1.0,995,Norte
+907,2025-06-06,Fuente de Chocolate,Cocina,35.0,1.0,996,Sur
+908,2025-06-07,,Cocina,20.0,1.0,997,Centro
+909,2025-06-08,Juego de Pesca Magnetico,Juguetes,15.0,N/A,998,Oeste
+910,2025-06-09,Rompecabezas de Madera,Juguetes,-12.0,1.0,999,Este
+911,2025-06-10,Cubo de Actividades,Juguetes,30.0,1.0,1000,Norte
+912,2023-01-21,Silla Gamer,Muebles,200.0,1.0,105,Oeste
+913,2023-05-28,Consulta Tecnica,Servicios,80.0,1.0,228,Oeste
+914,2023-09-02,Casa de Campana,campismo,120.0,1.0,325,Norte
+915,2024-03-01,Sobre,Oficina,0.5,20.0,511,Sur
+916,2024-06-21,Tarjeta Madre Z690,Componentes,250.0,1.0,252,Oeste
+917,2024-11-19,Bolsa para Ropa Sucia,Viajes,8.0,1.0,797,Oeste
+918,2025-01-08,Carriola,Viajes,200.0,1.0,847,Centro
+919,2025-03-28,Varita Magica,Juguetes,10.0,1.0,926,Norte
+920,2025-05-20,Guia de Campo de Insectos,Libros,12.0,1.0,979,Este
+921,2024-02-28,Pegamento en Barra,Oficina,2.0,3.0,509,Este
+922,2024-05-26,Mesa de Centro,muebles,80.0,1.0,607,Centro
+923,2024-10-27, Dispensador de Cereales,Cocina,25.0,1.0,773,Oeste
+924,2023-03-30,Licuadora,hogar,50.0,1.0,169,Este
+925,2023-07-28,Arrocera,Cocina,40.0,1.0,289,Este
+926,2023-12-29,Decantador de Vino,Cocina,35.0,1.0,444,Norte
+927,2024-02-10,Cortadora de Papel,Oficina,25.0,1.0,489,Norte
+928,2024-09-24,Abrebotellas,Cocina,5.0,1.0,740,Norte
+929,2023-02-03,Router WiFi 6,Redes,110.0,1.0,116,Este
+930,2023-05-07,Escaner de Documentos,Oficina,150.0,1.0,207,Centro
+931,2023-08-19,Alarma de Humo,Seguridad,18.0,2.0,311,Sur
+932,2023-12-06,Marco de Fotos Digital,Decoracion,70.0,1.0,421,Centro
+933,2024-05-12,GPS para Senderismo,Electronica,200.0,1.0,603,Oeste
+934,2024-07-21,Servomotor,electronica,8.0,2.0,669,Este
+935,2025-01-07,Silla de Auto para Bebe,Viajes,150.0,1.0,846,Sur
+936,2025-02-28,Trompo,Juguetes,6.0,1.0,898,Oeste
+937,2023-02-22,Audifonos con Microfono,Audio,55.0,1.0,133,Oeste
+938,2023-06-01,Tarjeta de Regalo,Regalos,50.0,1.0,232,Oeste
+939,2023-09-07,Cana de Pescar,Pesca,50.0,1.0,330,Sur
+940,2024-01-20,Coleccion de Vinilos,Musica,30.0,1.0,467,Centro
+941,2024-10-28,Toallero,Hogar,15.0,1.0,775,Norte
+942,2023-03-08,Disco Duro Interno 4TB,Almacenamiento,110.0,1.0,147,Centro
+943,2023-04-20,Tarjeta de Sonido Externa,Audio,40.0,1.0,190,Norte
+944,2023-10-02,Kit de Pintura,Arte,40.0,1.0,355,Norte
+945,2024-04-22,Escobilla para Bano,Hogar,10.0,1.0,570,Norte
+946,2024-08-19,Moneda Virtual para Juegos,Videojuegos,20.0,1.0,701,Sur
+947,2023-02-16,Mouse Inalambrico,Accesorios,25.0,2.0,102,Sur
+948,2023-02-07,Bocinas 2.1,Audio,90.0,1.0,120,Oeste
+949,2023-02-13,Teclado Inalambrico,Accesorios,45.0,1.0,103,Este
+950,2023-02-18,Cable Ethernet 10m,Redes,18.0,1.0,129,Este
+951,2023-02-24,Tablet 10",Electronica,250.0,1.0,135,Norte
+952,2023-03-03,Teclado Numerico,perifericos,18.0,1.0,142,Centro
+953,2023-03-14,Aro de Luz LED,Video,35.0,1.0,153,Oeste
+954,2023-03-23,Pantalla Inteligente,Hogar,120.0,1.0,162,Centro
+955,2023-04-05,Ventilador,Hogar,40.0,1.0,175,Norte
+956,2023-04-14,Candado para Laptop,Seguridad,15.0,1.0,184,Este
+957,2023-04-22,Sintonizador de TV USB,Video,30.0,1.0,192,Centro
+958,2023-05-01,Monitor Ultrawide,Monitores,600.0,1.0,201,Sur
+959,2023-05-10,Telescopio,Ciencia,200.0,1.0,210,Norte
+960,2023-05-20,Libro de Cocina,Libros,25.0,1.0,220,Norte
+961,2023-05-29,Reparacion de PC,servicios,120.0,1.0,229,Este
+962,2023-06-07,Cinturon,Ropa,30.0,1.0,239,Este
+963,2023-06-17,SSD 2TB,Componentes,180.0,1.0,248,Oeste
+964,2023-06-26,Lampara de Pie,Hogar,50.0,1.0,257,Centro
+965,2023-07-05,Soporte para Celular,accesorios,12.0,1.0,266,Sur
+966,2023-07-15,Tensiometro,Salud,40.0,1.0,276,Sur
+967,2023-07-25,Batidora,Cocina,70.0,1.0,286,Sur
+968,2023-08-04,Maceta,Jardineria,10.0,5.0,296,Sur
+969,2023-08-14,Gafas de Seguridad,Seguridad,8.0,1.0,306,Sur
+970,2023-08-23,Bomba de Aire,Deportes,12.0,1.0,315,Norte
+971,2023-09-02,Casa de Campana,campismo,120.0,1.0,325,Norte
+972,2023-09-12,Balon de Baloncesto,Deportes,25.0,1.0,335,Norte
+973,2023-09-21,Monitores de Estudio,Audio,250.0,2.0,344,Este
+974,2023-10-01,Funda para Guitarra,Musica,30.0,1.0,354,Este
+975,2023-10-10,Plastilina,Arte,8.0,1.0,363,Oeste
+976,2023-10-20,Raqueta de Tenis,Deportes,80.0,1.0,373,Oeste
+977,2023-10-29,Gorro de Natacion,natacion,8.0,1.0,833,Oeste
+978,2023-11-08,Paraguas,Accesorios,20.0,1.0,393,Oeste
+979,2023-11-18,Olla de Presion,Cocina,80.0,1.0,403,Oeste
+980,2023-11-27,Clips,Oficina,3.0,1.0,412,Centro
+981,2023-12-07,Planta Artificial,Decoracion,20.0,1.0,422,Centro
+982,2023-12-16,Peluche,Juguetes,20.0,1.0,431,Sur
+983,2023-12-25,Juego de Te,Cocina,40.0,1.0,440,Norte
+984,2024-01-04,Domino,juguetes,15.0,1.0,451,Sur
+985,2024-01-13,Timbre con Video,Seguridad,100.0,1.0,460,Norte
+986,2024-01-23,Inversor de Corriente para Auto,Energia,40.0,1.0,471,Sur
+987,2024-02-02,Fabrica de Hielo,Cocina,120.0,1.0,480,Norte
+988,2024-02-12,Cojin Lumbar,Muebles,20.0,1.0,492,Centro
+989,2024-02-21,Portafolio,Accesorios,70.0,1.0,502,Centro
+990,2024-03-02,Agenda Electronica,Electronica,50.0,1.0,512,Centro
+991,2024-03-11,Bola de Discoteca,Fiesta,20.0,1.0,522,Centro
+992,2024-03-21,Cubre Sillas,Hogar,8.0,4.0,533,Oeste
+993,2024-03-31,Ganchos para Ropa,Hogar,8.0,1.0,545,Norte
+994,2024-04-09,Cabecera para Cama,muebles,100.0,1.0,555,Norte
+995,2024-04-18,Bata de Bano,Hogar,35.0,1.0,565,Norte
+996,2024-04-28,Tira de Luces LED,iluminacion,20.0,1.0,576,Sur
+997,2024-05-07,Radio de Emergencia,Seguridad,40.0,1.0,587,Centro
+998,2024-05-17,Botas de Senderismo,Ropa,120.0,1.0,597,Centro
+999,2024-05-26,Mesa de Centro,muebles,80.0,1.0,607,Centro
+1000,2024-06-05,Divisor de Audifonos,audio,8.0,1.0,618,Oeste
